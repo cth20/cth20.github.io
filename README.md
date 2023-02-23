@@ -6,5 +6,5 @@ Welcome to my site.
 e-mail: cth20@mails.tsinghua.edu.cn   
 </center> 
 
-The site begins on 2023/2/23 for bioinfo learning. 
+The site begins on 2023/2/23 for bioinfo learning.    
   [22-23 spring bioinfomatics course] (https://cth20.github.io/bioinfo23/)
